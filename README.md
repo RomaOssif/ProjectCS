@@ -1,3 +1,3 @@
-This is my code for a class in my university OOP: practice.
+This is the source code for the university project.
 
-The purpose of this project is to implement 3 different types of encodings which are: Morse code, Caesar Cipher, and Substitution cipher.
+Its purpose is to implement 3 different types of text encoding which are: Morse code, Caesar Cipher, and Substitution cipher.
